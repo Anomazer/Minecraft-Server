@@ -1,184 +1,356 @@
-[17:10:53] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[17:10:53] [ServerMain/WARN]: resource-pack-id missing, using default of 485a8a0f-6844-36fb-9238-4c785e5c3e7f
-[17:10:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:10:53] [ServerMain/INFO]: Found new data pack file/KeepSomeInventory-v2.0.0.zip, loading it automatically
-[17:10:53] [ServerMain/INFO]: Found new data pack file/ketkets-player-shops v1.zip, loading it automatically
-[17:10:54] [ServerMain/INFO]: Loaded 1290 recipes
-[17:10:54] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:10:54] [Server thread/INFO]: Loading properties
-[17:10:54] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:10:55] [Server thread/INFO]: Debug logging is disabled
-[17:10:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:10:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:10:55] [Server thread/INFO]: Default game type: SURVIVAL
-[17:10:55] [Server thread/INFO]: Generating keypair
-[17:10:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:10:55] [Server thread/INFO]: Using default channel type
-[17:10:55] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.16
-[17:10:55] [Server thread/INFO]: [GSit] Loading GSit v1.9.5
-[17:10:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:10:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:10:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:10:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:10:55] [Server thread/INFO]: Preparing level "world"
-[17:10:55] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:10:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:10:55] [Server thread/INFO]: Item Despawn Rate: 12000
-[17:10:55] [Server thread/INFO]: Simulation Distance: 10
-[17:10:55] [Server thread/INFO]: View Distance: 32
-[17:10:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17:10:55] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:10:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:10:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17:10:55] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:10:55] [Server thread/INFO]: Mob Spawn Range: 6
-[17:10:55] [Server thread/INFO]: Max TNT Explosions: 100
-[17:10:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17:10:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[17:10:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17:10:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17:10:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[17:10:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:10:56] [Server thread/INFO]: Item Despawn Rate: 12000
-[17:10:56] [Server thread/INFO]: Simulation Distance: 10
-[17:10:56] [Server thread/INFO]: View Distance: 32
-[17:10:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17:10:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:10:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:10:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17:10:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:10:56] [Server thread/INFO]: Mob Spawn Range: 6
-[17:10:56] [Server thread/INFO]: Max TNT Explosions: 100
-[17:10:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17:10:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17:10:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17:10:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[17:10:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:10:56] [Server thread/INFO]: Item Despawn Rate: 12000
-[17:10:56] [Server thread/INFO]: Simulation Distance: 10
-[17:10:56] [Server thread/INFO]: View Distance: 32
-[17:10:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:10:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17:10:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:10:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:10:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17:10:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:10:56] [Server thread/INFO]: Mob Spawn Range: 6
-[17:10:56] [Server thread/INFO]: Max TNT Explosions: 100
-[17:10:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17:10:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[17:10:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:10:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17:10:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17:10:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:10:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:10:57] [Server thread/INFO]: Time elapsed: 463 ms
-[17:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:10:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[17:10:57] [Server thread/INFO]: Time elapsed: 126 ms
-[17:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:10:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:10:57] [Server thread/INFO]: Time elapsed: 111 ms
-[17:10:57] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
-[17:10:57] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21-R0.1
-[17:10:57] [Server thread/INFO]: [voicechat] Compatibility version 18
-[17:10:57] [Server thread/WARN]: [voicechat] Commodore command completion is not supported
-[17:10:57] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
-[17:10:57] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The plugin was successfully enabled.[m
-[17:10:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:10:57] [Server thread/INFO]: Done (1.851s)! For help, type "help"
-[17:10:57] [Server thread/INFO]: [voicechat] Loading plugins
-[17:10:57] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[17:10:57] [Server thread/INFO]: [voicechat] Initializing plugins
-[17:10:57] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[17:10:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:10:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[17:11:49] [User Authenticator #1/INFO]: UUID of player AEfIN is accbb57c-b19a-30a3-866e-496ac092681b
-[17:11:53] [Server thread/INFO]: AEfIN joined the game
-[17:11:53] [Server thread/INFO]: AEfIN[/26.158.28.195:62202] logged in with entity id 64 at ([world]-2.5, 169.0, 8.5)
-[17:12:00] [Server thread/INFO]: AEfIN issued server command: /sit
-[17:12:07] [Server thread/INFO]: AEfIN issued server command: /spin
-[17:12:08] [Server thread/INFO]: AEfIN issued server command: /spin
-[17:12:10] [Server thread/INFO]: AEfIN issued server command: /spin
-[17:12:14] [Server thread/INFO]: AEfIN issued server command: /crawl
-[17:12:15] [Server thread/INFO]: AEfIN issued server command: /crawl
-[17:12:43] [Server thread/INFO]: Made AEfIN a server operator
-[17:12:49] [Server thread/INFO]: AEfIN issued server command: /datapack list available
-[17:12:52] [Server thread/INFO]: AEfIN issued server command: /datapack list enabled
-[17:13:01] [Server thread/INFO]: Made AEfIN no longer a server operator
-[17:13:05] [Server thread/INFO]: AEfIN lost connection: Disconnected
-[17:13:05] [Server thread/INFO]: [voicechat] Disconnecting client AEfIN
-[17:13:05] [Server thread/INFO]: AEfIN left the game
-[17:13:14] [Server thread/INFO]: Stopping the server
-[17:13:14] [Server thread/INFO]: Stopping server
-[17:13:14] [Server thread/INFO]: [GSit] Disabling GSit v1.9.5
-[17:13:14] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The plugin was successfully disabled.[m
-[17:13:14] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.16
-[17:13:14] [Server thread/INFO]: Saving players
-[17:13:14] [Server thread/INFO]: Saving worlds
-[17:13:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:13:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:13:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:00:44] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[19:00:44] [ServerMain/WARN]: resource-pack-id missing, using default of 485a8a0f-6844-36fb-9238-4c785e5c3e7f
+[19:00:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:00:45] [ServerMain/INFO]: Loaded 1290 recipes
+[19:00:45] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:00:45] [Server thread/INFO]: Loading properties
+[19:00:45] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:00:46] [Server thread/INFO]: Debug logging is disabled
+[19:00:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:00:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:00:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:00:46] [Server thread/INFO]: Generating keypair
+[19:00:46] [Server thread/INFO]: Starting Minecraft server on 26.158.28.195:25565
+[19:00:46] [Server thread/INFO]: Using default channel type
+[19:00:46] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.16
+[19:00:46] [Server thread/INFO]: [GSit] Loading GSit v1.9.5
+[19:00:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:00:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:00:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:00:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:00:46] [Server thread/INFO]: Preparing level "world"
+[19:00:46] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:00:46] [Server thread/INFO]: View Distance: 32
+[19:00:46] [Server thread/INFO]: Simulation Distance: 10
+[19:00:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:00:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:00:46] [Server thread/INFO]: Item Despawn Rate: 12000
+[19:00:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:00:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:00:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:00:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:00:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:00:46] [Server thread/INFO]: Mob Spawn Range: 6
+[19:00:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:00:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:00:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:00:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:00:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:00:46] [Server thread/INFO]: Max TNT Explosions: 100
+[19:00:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:00:47] [Server thread/INFO]: View Distance: 32
+[19:00:47] [Server thread/INFO]: Simulation Distance: 10
+[19:00:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:00:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:00:47] [Server thread/INFO]: Item Despawn Rate: 12000
+[19:00:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:00:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:00:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:00:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:00:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:00:47] [Server thread/INFO]: Mob Spawn Range: 6
+[19:00:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:00:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:00:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:00:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:00:47] [Server thread/INFO]: Max TNT Explosions: 100
+[19:00:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:00:47] [Server thread/INFO]: View Distance: 32
+[19:00:47] [Server thread/INFO]: Simulation Distance: 10
+[19:00:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:00:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:00:47] [Server thread/INFO]: Item Despawn Rate: 12000
+[19:00:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:00:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:00:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:00:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:00:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:00:47] [Server thread/INFO]: Mob Spawn Range: 6
+[19:00:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:00:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:00:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:00:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:00:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:00:47] [Server thread/INFO]: Max TNT Explosions: 100
+[19:00:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:00:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:00:47] [Server thread/INFO]: Time elapsed: 436 ms
+[19:00:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:00:48] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:00:48] [Server thread/INFO]: Time elapsed: 114 ms
+[19:00:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:00:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:00:48] [Server thread/INFO]: Time elapsed: 130 ms
+[19:00:48] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
+[19:00:48] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21-R0.1
+[19:00:48] [Server thread/INFO]: [voicechat] Compatibility version 18
+[19:00:48] [Server thread/WARN]: [voicechat] Commodore command completion is not supported
+[19:00:48] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
+[19:00:48] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The plugin was successfully enabled.[m
+[19:00:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:00:48] [Server thread/INFO]: Done (1.822s)! For help, type "help"
+[19:00:48] [Server thread/INFO]: [voicechat] Loading plugins
+[19:00:48] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[19:00:48] [Server thread/INFO]: [voicechat] Initializing plugins
+[19:00:48] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[19:00:48] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:00:48] [VoiceChatServerThread/INFO]: [voicechat] Using server-ip as bind address: 26.158.28.195
+[19:00:48] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 26.158.28.195:24454
+[19:01:13] [User Authenticator #1/INFO]: UUID of player AEfIN is accbb57c-b19a-30a3-866e-496ac092681b
+[19:01:17] [Server thread/INFO]: AEfIN joined the game
+[19:01:17] [Server thread/INFO]: AEfIN[/26.158.28.195:50036] logged in with entity id 84 at ([world]-168.0678907531434, 63.085764312744146, -185.83228139850243)
+[19:01:18] [Server thread/INFO]: [voicechat] Received secret request of AEfIN (18)
+[19:01:18] [Server thread/INFO]: [voicechat] Sent secret to AEfIN
+[19:01:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player accbb57c-b19a-30a3-866e-496ac092681b
+[19:01:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player accbb57c-b19a-30a3-866e-496ac092681b
+[19:01:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AEfIN (accbb57c-b19a-30a3-866e-496ac092681b) successfully connected to voice chat
+[19:02:20] [User Authenticator #2/INFO]: UUID of player stalin73ru is 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:02:22] [Server thread/INFO]: stalin73ru joined the game
+[19:02:22] [Server thread/INFO]: stalin73ru[/26.137.231.233:55678] logged in with entity id 911 at ([world]-121.24368959404839, 62.110764312744145, -462.23635973641694)
+[19:02:23] [Server thread/INFO]: [voicechat] Received secret request of stalin73ru (18)
+[19:02:23] [Server thread/INFO]: [voicechat] Sent secret to stalin73ru
+[19:02:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:02:25] [User Authenticator #3/INFO]: UUID of player Mantiroz_ is d5585708-c53b-3ff5-af21-9f41d4da8ec2
+[19:02:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:02:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player stalin73ru (2bf2627d-5a67-3421-81ea-3a1b070c4896) successfully connected to voice chat
+[19:02:28] [Server thread/INFO]: AEfIN burned to death
+[19:02:29] [Server thread/INFO]: Mantiroz_ joined the game
+[19:02:29] [Server thread/INFO]: Mantiroz_[/26.146.120.57:63995] logged in with entity id 1045 at ([world]-364.67750105571326, 91.0, -257.69999998807907)
+[19:02:31] [Worker-Main-6/ERROR]: Caught exception in thread Thread[#58,Worker-Main-6,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1336) ~[fastutil-8.5.12.jar:?]
+	at net.minecraft.world.level.lighting.LightEngineStorageSky$a.a(SourceFile:164) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.lighting.LightEngineStorageSky$a.b(SourceFile:144) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.lighting.LightEngineStorage.b(SourceFile:287) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.lighting.LightEngine.a(SourceFile:180) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.lighting.LevelLightEngine.a(SourceFile:56) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.LightEngineThreaded.f(SourceFile:185) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.LightEngineThreaded.h(SourceFile:164) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.LightEngineThreaded$$Lambda/0x0000023481d8f870.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[19:05:20] [User Authenticator #4/INFO]: UUID of player ANTINATURAL228 is 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:05:23] [Server thread/INFO]: ANTINATURAL228 joined the game
+[19:05:23] [Server thread/INFO]: ANTINATURAL228[/26.39.71.228:65249] logged in with entity id 2697 at ([world]-168.69999998807907, 64.0, -183.30000001192093)
+[19:05:23] [Server thread/INFO]: [voicechat] Received secret request of ANTINATURAL228 (18)
+[19:05:23] [Server thread/INFO]: [voicechat] Sent secret to ANTINATURAL228
+[19:05:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:05:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:05:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ANTINATURAL228 (593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e) successfully connected to voice chat
+[19:07:19] [Server thread/INFO]: Mantiroz_ lost connection: Disconnected
+[19:07:19] [Server thread/INFO]: [voicechat] Disconnecting client Mantiroz_
+[19:07:19] [Server thread/INFO]: Mantiroz_ left the game
+[19:08:57] [Server thread/INFO]: AEfIN fell from a high place
+[19:09:12] [User Authenticator #5/INFO]: UUID of player Mantiroz_ is d5585708-c53b-3ff5-af21-9f41d4da8ec2
+[19:09:17] [Server thread/INFO]: Mantiroz_ joined the game
+[19:09:17] [Server thread/INFO]: Mantiroz_[/26.146.120.57:64033] logged in with entity id 3765 at ([world]-269.45782338443405, 140.0, -257.97285789335064)
+[19:11:50] [Server thread/INFO]: stalin73ru issued server command: /msg ANTINATURAL228 лс прими др
+[19:11:51] [Server thread/INFO]: AEfIN has made the advancement [Not Today, Thank You]
+[19:11:53] [Server thread/INFO]: AEfIN was shot by Skeleton
+[19:12:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Mantiroz_> F
+[19:12:31] [Server thread/INFO]: AEfIN has made the advancement [Monster Hunter]
+[19:12:35] [Server thread/INFO]: stalin73ru lost connection: Disconnected
+[19:12:35] [Server thread/INFO]: [voicechat] Disconnecting client stalin73ru
+[19:12:35] [Server thread/INFO]: stalin73ru left the game
+[19:12:41] [User Authenticator #6/INFO]: UUID of player stalin73ru is 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:12:42] [Server thread/INFO]: stalin73ru joined the game
+[19:12:42] [Server thread/INFO]: stalin73ru[/26.137.231.233:55911] logged in with entity id 6355 at ([world]69.89972289063222, 62.110764312744145, 334.8837178852324)
+[19:12:42] [Server thread/INFO]: [voicechat] Received secret request of stalin73ru (18)
+[19:12:42] [Server thread/INFO]: [voicechat] Sent secret to stalin73ru
+[19:12:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:12:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2bf2627d-5a67-3421-81ea-3a1b070c4896
+[19:12:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player stalin73ru (2bf2627d-5a67-3421-81ea-3a1b070c4896) successfully connected to voice chat
+[19:14:23] [Server thread/INFO]: ANTINATURAL228 has made the advancement [Monster Hunter]
+[19:14:30] [Server thread/WARN]: Spruce Boat (vehicle of stalin73ru) moved wrongly! 0.37856686826549435
+[19:16:21] [Server thread/INFO]: AEfIN was slain by Zombie
+[19:20:07] [Server thread/INFO]: Mantiroz_ has made the advancement [Diamonds!]
+[19:20:42] [Server thread/INFO]: stalin73ru lost connection: Disconnected
+[19:20:42] [Server thread/INFO]: [voicechat] Disconnecting client stalin73ru
+[19:20:42] [Server thread/INFO]: stalin73ru left the game
+[19:20:54] [Async Chat Thread - #2/INFO]: [Not Secure] <ANTINATURAL228> о каеф
+[19:20:59] [Async Chat Thread - #1/INFO]: [Not Secure] <AEfIN> а чё он
+[19:21:02] [Async Chat Thread - #2/INFO]: [Not Secure] <ANTINATURAL228> втроем осталист
+[19:21:04] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> хз
+[19:21:13] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> ну кста реально имба
+[19:21:23] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> вы где?
+[19:21:28] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> кстати сань
+[19:21:32] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> сид хуйня
+[19:21:32] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> рядом с тем острово
+[19:21:38] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> большая часть вода
+[19:21:39] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> а я что сделаю
+[19:21:44] [Async Chat Thread - #1/INFO]: [Not Secure] <AEfIN> так бля
+[19:21:48] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> ща иследовать буду
+[19:21:56] [Async Chat Thread - #1/INFO]: [Not Secure] <AEfIN> го со мной
+[19:21:58] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> ты где
+[19:22:07] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> 50 -300
+[19:22:30] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> жди
+[19:22:38] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> не
+[19:22:43] [Async Chat Thread - #2/INFO]: [Not Secure] <ANTINATURAL228> ты пока исследуй
+[19:22:56] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> а я или в шахту или тоже исследовать буду
+[19:23:03] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> так со мной
+[19:23:23] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> ну оке
+[19:23:29] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> ну и где ты
+[19:23:32] [Async Chat Thread - #1/INFO]: [Not Secure] <AEfIN> я на воде
+[19:23:40] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> 125 -188
+[19:23:59] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> к воде иди
+[19:24:09] [Async Chat Thread - #1/INFO]: [Not Secure] <ANTINATURAL228> уже
+[19:24:41] [Async Chat Thread - #2/INFO]: [Not Secure] <AEfIN> 156 -302
+[19:24:52] [Async Chat Thread - #1/INFO]: [Not Secure] <AEfIN> иди быстрей
+[19:26:17] [Async Chat Thread - #4/INFO]: [Not Secure] <ANTINATURAL228> стой
+[19:26:27] [Async Chat Thread - #3/INFO]: [Not Secure] <ANTINATURAL228> ко мне
+[19:26:34] [Async Chat Thread - #3/INFO]: [Not Secure] <AEfIN> ща
+[19:26:39] [Async Chat Thread - #3/INFO]: [Not Secure] <ANTINATURAL228> забери
+[19:26:47] [Async Chat Thread - #4/INFO]: [Not Secure] <ANTINATURAL228> ты ахуел?
+[19:26:54] [Async Chat Thread - #3/INFO]: [Not Secure] <ANTINATURAL228> ну и иди нахуй
+[19:26:58] [Async Chat Thread - #4/INFO]: [Not Secure] <AEfIN> я плыву
+[19:30:14] [Server thread/INFO]: AEfIN lost connection: Disconnected
+[19:30:14] [Server thread/INFO]: [voicechat] Disconnecting client AEfIN
+[19:30:14] [Server thread/INFO]: AEfIN left the game
+[19:30:22] [Server thread/INFO]: ANTINATURAL228 lost connection: Disconnected
+[19:30:22] [Server thread/INFO]: [voicechat] Disconnecting client ANTINATURAL228
+[19:30:22] [Server thread/INFO]: ANTINATURAL228 left the game
+[19:30:24] [User Authenticator #7/INFO]: UUID of player AEfIN is accbb57c-b19a-30a3-866e-496ac092681b
+[19:30:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Mantiroz_> прикол
+[19:30:28] [Server thread/INFO]: AEfIN joined the game
+[19:30:28] [Server thread/INFO]: AEfIN[/26.158.28.195:55973] logged in with entity id 16954 at ([world]400.04466607133446, 58.603260498043355, -271.2100431079765)
+[19:30:28] [Server thread/INFO]: [voicechat] Received secret request of AEfIN (18)
+[19:30:28] [Server thread/INFO]: [voicechat] Sent secret to AEfIN
+[19:30:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player accbb57c-b19a-30a3-866e-496ac092681b
+[19:30:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player accbb57c-b19a-30a3-866e-496ac092681b
+[19:30:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AEfIN (accbb57c-b19a-30a3-866e-496ac092681b) successfully connected to voice chat
+[19:30:48] [Server thread/INFO]: AEfIN lost connection: Disconnected
+[19:30:48] [Server thread/INFO]: [voicechat] Disconnecting client AEfIN
+[19:30:48] [Server thread/INFO]: AEfIN left the game
+[19:30:54] [User Authenticator #8/INFO]: UUID of player ANTINATURAL228 is 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:30:58] [Server thread/INFO]: ANTINATURAL228 joined the game
+[19:30:58] [Server thread/INFO]: ANTINATURAL228[/26.39.71.228:49811] logged in with entity id 17018 at ([world]400.04466607133446, 62.11076431274413, -271.2100431079765)
+[19:30:58] [Server thread/INFO]: [voicechat] Received secret request of ANTINATURAL228 (18)
+[19:30:58] [Server thread/INFO]: [voicechat] Sent secret to ANTINATURAL228
+[19:30:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:30:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:30:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ANTINATURAL228 (593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e) successfully connected to voice chat
+[19:31:19] [User Authenticator #9/INFO]: UUID of player AEfIN is accbb57c-b19a-30a3-866e-496ac092681b
+[19:31:23] [Server thread/INFO]: AEfIN joined the game
+[19:31:23] [Server thread/INFO]: AEfIN[/26.158.28.195:56267] logged in with entity id 17065 at ([world]400.04466607133446, 35.0, -271.2100431079765)
+[19:31:24] [Server thread/INFO]: [voicechat] Received secret request of AEfIN (18)
+[19:31:24] [Server thread/INFO]: [voicechat] Sent secret to AEfIN
+[19:31:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player accbb57c-b19a-30a3-866e-496ac092681b
+[19:31:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player accbb57c-b19a-30a3-866e-496ac092681b
+[19:31:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AEfIN (accbb57c-b19a-30a3-866e-496ac092681b) successfully connected to voice chat
+[19:31:30] [Server thread/INFO]: AEfIN lost connection: Disconnected
+[19:31:30] [Server thread/INFO]: [voicechat] Disconnecting client AEfIN
+[19:31:30] [Server thread/INFO]: AEfIN left the game
+[19:32:57] [Server thread/INFO]: ANTINATURAL228 lost connection: Disconnected
+[19:32:57] [Server thread/INFO]: [voicechat] Disconnecting client ANTINATURAL228
+[19:32:57] [Server thread/INFO]: ANTINATURAL228 left the game
+[19:33:07] [User Authenticator #10/INFO]: UUID of player ANTINATURAL228 is 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:33:11] [Server thread/INFO]: ANTINATURAL228 joined the game
+[19:33:11] [Server thread/INFO]: ANTINATURAL228[/26.39.71.228:49889] logged in with entity id 17337 at ([world]400.04466607133446, 62.11076431274413, -271.2100431079765)
+[19:33:11] [Server thread/INFO]: [voicechat] Received secret request of ANTINATURAL228 (18)
+[19:33:11] [Server thread/INFO]: [voicechat] Sent secret to ANTINATURAL228
+[19:33:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:33:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e
+[19:33:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ANTINATURAL228 (593c864f-cdbe-3c0f-8ffb-c7f6427a2e1e) successfully connected to voice chat
+[19:34:04] [Async Chat Thread - #8/INFO]: [Not Secure] <ANTINATURAL228> 400 -271
+[19:34:08] [User Authenticator #11/INFO]: UUID of player ZAXA_PRO is 5c48ea63-484d-367c-95fc-7bd3ea9270e0
+[19:34:13] [Server thread/INFO]: ZAXA_PRO joined the game
+[19:34:13] [Server thread/INFO]: ZAXA_PRO[/26.129.154.85:49388] logged in with entity id 17482 at ([world]-84.99651888938229, 86.0, 6.300000011920929)
+[19:34:13] [Server thread/INFO]: [voicechat] Received secret request of ZAXA_PRO (18)
+[19:34:13] [Server thread/INFO]: [voicechat] Sent secret to ZAXA_PRO
+[19:34:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5c48ea63-484d-367c-95fc-7bd3ea9270e0
+[19:34:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5c48ea63-484d-367c-95fc-7bd3ea9270e0
+[19:34:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ZAXA_PRO (5c48ea63-484d-367c-95fc-7bd3ea9270e0) successfully connected to voice chat
+[19:34:19] [User Authenticator #12/INFO]: UUID of player AEfIN is accbb57c-b19a-30a3-866e-496ac092681b
+[19:34:22] [Server thread/INFO]: AEfIN joined the game
+[19:34:22] [Server thread/INFO]: AEfIN[/26.158.28.195:57235] logged in with entity id 17645 at ([world]400.04466607133446, 35.0, -271.2100431079765)
+[19:34:23] [Server thread/INFO]: [voicechat] Received secret request of AEfIN (18)
+[19:34:23] [Server thread/INFO]: [voicechat] Sent secret to AEfIN
+[19:34:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player accbb57c-b19a-30a3-866e-496ac092681b
+[19:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player accbb57c-b19a-30a3-866e-496ac092681b
+[19:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AEfIN (accbb57c-b19a-30a3-866e-496ac092681b) successfully connected to voice chat
+[19:34:28] [Server thread/INFO]: AEfIN drowned
+[19:35:07] [Async Chat Thread - #10/INFO]: [Not Secure] <ANTINATURAL228> 400 -271
+[19:37:10] [Server thread/INFO]: AEfIN was shot by Skeleton
+[19:37:47] [Server thread/INFO]: ZAXA_PRO was blown up by Creeper
+[19:42:19] [Server thread/INFO]: Mantiroz_ fell from a high place
+[19:42:31] [Server thread/INFO]: Mantiroz_ lost connection: Disconnected
+[19:42:31] [Server thread/INFO]: [voicechat] Disconnecting client Mantiroz_
+[19:42:31] [Server thread/INFO]: Mantiroz_ left the game
+[19:43:12] [Server thread/INFO]: AEfIN lost connection: Disconnected
+[19:43:12] [Server thread/INFO]: [voicechat] Disconnecting client AEfIN
+[19:43:12] [Server thread/INFO]: AEfIN left the game
+[19:43:17] [Server thread/INFO]: ZAXA_PRO has made the advancement [Isn't It Iron Pick]
+[19:43:19] [Server thread/INFO]: Stopping the server
+[19:43:19] [Server thread/INFO]: Stopping server
+[19:43:19] [Server thread/INFO]: [GSit] Disabling GSit v1.9.5
+[19:43:19] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The plugin was successfully disabled.[m
+[19:43:19] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.16
+[19:43:19] [Server thread/INFO]: Saving players
+[19:43:19] [Server thread/INFO]: ANTINATURAL228 lost connection: Server closed
+[19:43:19] [Server thread/INFO]: ANTINATURAL228 left the game.
+[19:43:19] [Server thread/INFO]: ZAXA_PRO lost connection: Server closed
+[19:43:19] [Server thread/INFO]: ZAXA_PRO left the game.
+[19:43:19] [Server thread/INFO]: Saving worlds
+[19:43:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
